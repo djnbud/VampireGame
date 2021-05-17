@@ -1,0 +1,2 @@
+D:\VampireGame\VampireGame\VampireGame\VampireGameContent\obj\x86\Debug\VampireGameContent.contentprojAssemblyReference.cache
+D:\VampireGame\VampireGame\VampireGame\VampireGameContent\obj\x86\Debug\VampireGameContent.contentproj.CoreCompileInputs.cache

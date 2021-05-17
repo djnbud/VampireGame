@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{77AA96A6-D587-4A1B-A833-8A4C132A72B6}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\VampireGame\VampireGame\VampireGame\VampireGameContent\</RootDirectory>
+      <LoggerRootDirectory>D:\VampireGame\VampireGame\VampireGame\VampireGame\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\VampireGame\VampireGame\VampireGame\VampireGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\VampireGame\VampireGame\VampireGame\VampireGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2021-05-13T13:31:22.8231611+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
